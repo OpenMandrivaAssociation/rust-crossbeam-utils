@@ -1,0 +1,11 @@
+--- crossbeam-utils-0.7.0/Cargo.toml	2019-11-06T23:41:33+00:00
++++ crossbeam-utils-0.7.0/Cargo.toml	2020-01-15T19:17:17.540956+00:00
+@@ -31,7 +31,7 @@
+ [dev-dependencies.rand]
+ version = "0.6"
+ [build-dependencies.autocfg]
+-version = "0.1.6"
++version = "1"
+ 
+ [features]
+ alloc = []
