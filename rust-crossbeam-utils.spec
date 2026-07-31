@@ -4,8 +4,8 @@
 %global crate crossbeam-utils
 
 Name:           rust-%{crate}
-Version:        0.8.3
-Release:        2
+Version:        0.8.22
+Release:        1
 Summary:        Utilities for concurrent programming
 
 # Upstream license specification: MIT/Apache-2.0
